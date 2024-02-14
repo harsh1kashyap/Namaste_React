@@ -15,3 +15,7 @@
 - Code splitting
 - Error Handling
 - Tree Shaking - remove unused code
+
+# Browser List
+
+- Maintaion our code for older version
